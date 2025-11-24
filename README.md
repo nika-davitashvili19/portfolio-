@@ -14,7 +14,7 @@ I'm a highly motivated beginner web developer focused on clean code and constant
 | :--- | :--- |
 | *ფრონტ-ენდი (Frontend)* | HTML5, CSS3, JavaScript  |
 | *Framework/Library* | *Angular* (ძირითადი დონე) |
-| *სტილიზაცია (Styling)* | CSS, [ Bootstrap/] |
+| *სტილიზაცია (Styling)* | CSS, [ Bootstrap/tailwind] |
 | *ვერსიის კონტროლი (Version Control)* | Git & GitHub |
 
 
