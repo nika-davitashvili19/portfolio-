@@ -1,6 +1,6 @@
 # 👋 გამარჯობა, მე ვარ ნიკა! | Hello, I'm Nika!
 
-მე ვარ დამწყები ვებ დეველოპერი (Beginner Web Developer), რომელიც ფოკუსირებულია სუფთა კოდის წერასა და ახალი ტექნოლოგიების შესწავლაზე. ძალიან მოტივირებული ვარ, მუდმივად გავაფართოვო ჩემი ცოდნა და ჩემი პროექტები ახალ დონეზე ავიყვანო.
+მე ვარ დამწყები ვებ დეველოპერი (Beginner front end Developer), რომელიც ფოკუსირებულია სუფთა კოდის წერასა და ახალი ტექნოლოგიების შესწავლაზე. ძალიან მოტივირებული ვარ, მუდმივად გავაფართოვო ჩემი ცოდნა და ჩემი პროექტები ახალ დონეზე ავიყვანო.
 
 I'm a highly motivated beginner web developer focused on clean code and constantly expanding my skill set. I am eager to learn and take on new challenges!
 
